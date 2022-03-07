@@ -1,0 +1,26 @@
+{
+  "name": "spotify-api",
+  "version": "1.0.0",
+  "description": "spotify app api",
+  "main": "index.js",
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LauzarateARG/spotify-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LauzarateARG/spotify-api/issues"
+  },
+  "homepage": "https://github.com/LauzarateARG/spotify-api#readme",
+  "dependencies": {
+    "express": "^4.17.3"
+  }
+}
