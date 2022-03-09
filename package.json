@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/LauzarateARG/spotify-api#readme",
   "dependencies": {
-    "express": "^4.17.3"
+    "express": "^4.17.3",
+    "spotify-web-api-node": "^5.0.2"
   }
 }
