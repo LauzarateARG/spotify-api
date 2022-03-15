@@ -1,8 +1,9 @@
 const express = require('express')
 const router = express.Router();
 
-router.get("/", async (req, res)=>{
+router.get("/saludo", async (req, res)=>{
     try{
+        console.log("hoooooooooooooola")
         res.json({
             status:200,
             message:"Get data has successfully gets",
